@@ -1,0 +1,63 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "algo7",
+            "request": "launch",
+            "mainClass": "algo7",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "algo6",
+            "request": "launch",
+            "mainClass": "algo6",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "algo5",
+            "request": "launch",
+            "mainClass": "algo5",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "algo4",
+            "request": "launch",
+            "mainClass": "algo4",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "algo3",
+            "request": "launch",
+            "mainClass": "algo3",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "algo1",
+            "request": "launch",
+            "mainClass": "algo1",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "algo2",
+            "request": "launch",
+            "mainClass": "algo2",
+            "projectName": "Atividade algorítimos_b2755519"
+        }
+    ]
+}
