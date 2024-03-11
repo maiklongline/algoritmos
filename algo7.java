@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 public class algo7 {
+// Crie um algoritmo que receba os valores de 𝑎, 𝑏 𝑒 𝑐 e calcule a equação de
+// segundo grau formada por 𝑎𝑥2 + 𝑏𝑥 + 𝑐 = 0. 
+
     public static void main(String[] args) {
     Scanner e = new Scanner(System.in);
         int a;  //ax^2

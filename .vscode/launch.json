@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "algo10",
+            "request": "launch",
+            "mainClass": "algo10",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "algo9",
+            "request": "launch",
+            "mainClass": "algo9",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "algo8",
+            "request": "launch",
+            "mainClass": "algo8",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
             "name": "algo7",
             "request": "launch",
             "mainClass": "algo7",

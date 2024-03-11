@@ -1,5 +1,7 @@
 import java.util.*;
 public class algo5 {
+//     Crie um algoritmo que receba o raio de um círculo, calcule e mostre a sua
+// área e o seu perímetro. 
     public static void main(String[] args) {
         Scanner c=new Scanner(System.in);
             double r,a,p;

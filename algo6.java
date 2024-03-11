@@ -1,7 +1,7 @@
 import java.util.*;
 public class algo6 {
-
-    
+// Crie um algoritmo que resolva a seguinte equação 𝑥
+// 2 − 5𝑥 + 6 = 0. 
     
     public static void main (String[] args) {
     Scanner e = new Scanner(System.in);

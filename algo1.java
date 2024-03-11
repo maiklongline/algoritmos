@@ -1,4 +1,6 @@
 import java.util.*;
+// Crie um algoritmo que receba três notas e seus respectivos pesos, calcule e
+// mostre a média ponderada entre elas.
 
 public class algo1 {
 	
