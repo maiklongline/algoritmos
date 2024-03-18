@@ -5,7 +5,7 @@ public class algo10 {
 // e mostre o valor da hipotenusa
 
 public static void main(String[] args) {
-    Scanner ler= new Scanner(System.in);
+    Scanner ler= new Scanner(System.in); //obter a entrada do usuário apartir do teclado
         double c1, c2 , h;
 
     System.out.println("informe o valor do primeiro cateto:");
