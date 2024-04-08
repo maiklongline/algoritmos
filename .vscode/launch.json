@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "exerc3",
+            "request": "launch",
+            "mainClass": "exerc3",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "algoritimos12",
+            "request": "launch",
+            "mainClass": "algoritimos12",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "exerc2",
+            "request": "launch",
+            "mainClass": "exerc2",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "exerc1",
+            "request": "launch",
+            "mainClass": "exerc1",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "strings",
+            "request": "launch",
+            "mainClass": "strings",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "algoritmos",
+            "request": "launch",
+            "mainClass": "algoritmos",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "algoritmos1",
+            "request": "launch",
+            "mainClass": "algoritmos1",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
             "name": "algo12",
             "request": "launch",
             "mainClass": "algo12",
