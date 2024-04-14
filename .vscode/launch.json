@@ -6,6 +6,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "mediaPonderada",
+            "request": "launch",
+            "mainClass": "mediaPonderada",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "nadoClassificacaoIdade",
+            "request": "launch",
+            "mainClass": "nadoClassificacaoIdade",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "saoMultiplos",
+            "request": "launch",
+            "mainClass": "saoMultiplos",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "definindoQualMaior",
+            "request": "launch",
+            "mainClass": "definindoQualMaior",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "mediaAritmetica",
+            "request": "launch",
+            "mainClass": "mediaAritmetica",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "equacaoLineares",
+            "request": "launch",
+            "mainClass": "equacaoLineares",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "algoPratica6",
+            "request": "launch",
+            "mainClass": "algoPratica6",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "algoPratica5",
+            "request": "launch",
+            "mainClass": "algoPratica5",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "algoPratica4",
+            "request": "launch",
+            "mainClass": "algoPratica4",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "algoPratica3",
+            "request": "launch",
+            "mainClass": "algoPratica3",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "algoPratica2",
+            "request": "launch",
+            "mainClass": "algoPratica2",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "algoPratica1",
+            "request": "launch",
+            "mainClass": "algoPratica1",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "algoPratica",
+            "request": "launch",
+            "mainClass": "algoPratica",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
             "name": "exerc3",
             "request": "launch",
             "mainClass": "exerc3",

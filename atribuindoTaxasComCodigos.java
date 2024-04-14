@@ -1,5 +1,5 @@
 import java.util.*;
-public class exerc3 {
+public class atribuindoTaxasComCodigos {
     
     public static void main(String[] args) {
         Scanner e = new Scanner(System.in);

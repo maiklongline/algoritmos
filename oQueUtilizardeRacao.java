@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class algo8 {
+public class oQueUtilizardeRacao {
 //     Pedro comprou um saco de ração com peso em Kg. Ele possui dois gatos,
 // para os quais fornece a quantidade de ração em gramas. A quantidade diária
 // de ração fornecida para cada gato é sempre a mesma. Crie um algoritmo que

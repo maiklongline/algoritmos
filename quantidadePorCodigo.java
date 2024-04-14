@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exerc2 {
+public class quantidadePorCodigo {
     
     public static void main(String[]args){
         Scanner e = new Scanner(System.in);

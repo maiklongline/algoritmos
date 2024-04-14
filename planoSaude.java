@@ -1,6 +1,6 @@
 import java.text.Normalizer;
 import java.util.*;
-public class exerc1 {
+public class planoSaude {
 
     public static void main(String[]args){
         Scanner e = new Scanner(System.in);

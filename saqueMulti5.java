@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class algo12 {
+public class saqueMulti5 {
 //      Crie um algoritmo que receba como entrada o valor do saque a ser realizado
 // pelo cliente de um banco e retorne quantas notas de cada valor serão
 // necessárias para atender ao saque com a menor quantidade de notas

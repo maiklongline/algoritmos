@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class algo10 {
+public class calculoParaHipotenusa {
 //     Crie um algoritmo que receba os valores dos catetos de um triângulo, calcule
 // e mostre o valor da hipotenusa
 

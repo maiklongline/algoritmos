@@ -1,5 +1,5 @@
 import java.util.*;
-public class algo6 {
+public class equacaoGrau2 {
 // Crie um algoritmo que resolva a seguinte equação 𝑥
 // 2 − 5𝑥 + 6 = 0. 
     

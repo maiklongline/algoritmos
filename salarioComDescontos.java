@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class algo4 {
+public class salarioComDescontos {
 //     Crie um algoritmo que receba o salário bruto de um funcionário e exiba o seu
 // salário líquido, sabendo que ele tem 10% de gratificação sobre o salário bruto
 // e tem 15% de descontos sobre o salário após a gratificação. 

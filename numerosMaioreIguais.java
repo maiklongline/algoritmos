@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class algoritimos1 {
+public class numerosMaioreIguais {
 //     Crie um algoritmo que leia dois números e informe qual deles é o maior. 
 // Informe também caso os números sejam iguais.
     public static void main(String[] args) {

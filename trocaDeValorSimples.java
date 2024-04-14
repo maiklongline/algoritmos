@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class algo11 {
+public class trocaDeValorSimples {
 //     Crie um algoritmo que receba dois valores literais, armazene-os em variáveis
 // distintas e após o armazenamento troque os conteúdos das variáveis. Ao
 // término, o algoritmo deve mostrar o novo conteúdo de cada variável.

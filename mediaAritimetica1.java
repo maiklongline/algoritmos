@@ -2,7 +2,7 @@ import java.util.*;
 // Crie um algoritmo que receba três notas e seus respectivos pesos, calcule e
 // mostre a média ponderada entre elas.
 
-public class algo1 {
+public class mediaAritimetica1 {
 	
 
 	public static void main(String[] args) {
@@ -17,7 +17,7 @@ public class algo1 {
 		p1=notas.nextInt();
 		p2=notas.nextInt();
 		p3=notas.nextInt();
-		media=(n1*p1 +n2+p2 + n3*p3) / (p1+p2+p3);
+		media=(n1*p1 + n2*p2 + n3*p3) / (p1+p2+p3);
 		System.out.println("o resultado final é\n" + media);
 
 		
