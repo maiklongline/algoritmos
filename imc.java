@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class algoritimos7 {
+public class imc {
 //      Você foi solicitado a criar um programa para acompanhamento de peso, no 
 // qual através do peso e da altura calcula-se o IMC. Após o cálculo, deverá ser 
 // informada a classificação, conforme tabela abaixo. (IMC = Peso / Altura²)

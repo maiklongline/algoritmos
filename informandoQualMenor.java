@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class algoritimos2 {
+public class informandoQualMenor {
     // Crie um algoritmo que leia 3 números e informe qual o menor.
 
     public static void main(String[] args) {

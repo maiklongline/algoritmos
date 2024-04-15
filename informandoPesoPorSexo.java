@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class algoritimos5 {
+public class informandoPesoPorSexo {
 //     Crie um algoritmo que receba como entrada o sexo de uma pessoa (M para 
 // Masculino e F para Feminino), sua altura (em centímetros) e calcule o seu 
 // peso ideal, utilizando as seguintes fórmulas: 

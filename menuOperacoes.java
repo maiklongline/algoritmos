@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class algoritimos9 {
+public class menuOperacoes {
     // Crie um algoritmo que mostre o menu de opções a seguir, receba a opção do 
 //usuário e os dados necessários para executar cada operação.
     public static void main(String[] args) {

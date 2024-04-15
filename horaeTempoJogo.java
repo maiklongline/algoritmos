@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class algoritimos10 {
+public class horaeTempoJogo {
 
     public static void main(String[] args) {
         Scanner e = new Scanner (System.in);

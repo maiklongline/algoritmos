@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class algoritimos6{
+public class auxilioFuncionario{
 //     Crie um algoritmo que leia o salário de um funcionário, calcule e mostre seu 
 // novo salário acrescido de bonificação e auxílio escola:
     public static void main(String[] args) {

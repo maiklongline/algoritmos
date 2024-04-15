@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class algoritimos4 {
+public class valores3 {
 //     Crie um algoritmo que leia 3 valores e informe se o 3º valor informado está 
 // entre os 2 primeiros.
     public static void main(String[] args) {
@@ -15,7 +15,7 @@ public class algoritimos4 {
                 System.out.print("o terceiro valor está entre os três primeiros");
 
             }else{
-                System.out.print("OO terceiro valor não está entre os dois primeiros.\n");
+                System.out.print("O terceiro valor não está entre os dois primeiros.\n");
             }
 
     }

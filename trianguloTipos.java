@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class algoritimos8 {
+public class trianguloTipos {
 //     Crie um algoritmo que dados três valores X, Y e Z, verifique se eles podem 
 // ser os comprimentos dos lados de um triângulo e, se forem, verifique se é um 
 // triângulo equilátero, isósceles ou escaleno. Considere que: 

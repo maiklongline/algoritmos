@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class algoritimos3 {
+public class classificacaoMediaAluno100 {
 //     Crie um algoritmo que leia o nome do aluno, suas 4 notas, calcule a média e 
 // classifique o resultado conforme a tabela abaixo. Ao final, deverão ser 
 // exibidos o nome do aluno, suas 4 notas, sua média e sua classificação.

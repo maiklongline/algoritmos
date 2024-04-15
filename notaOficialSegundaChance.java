@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class algoritimos11 {
+public class notaOficialSegundaChance {
 	public static void main(String[] args) {
 		Scanner e = new Scanner(System.in);
 			double nota1, nota2, nota3,notar,nv = 0, media;

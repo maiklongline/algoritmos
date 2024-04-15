@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class algoritimos12 {
+public class definicaoPremios {
  
     public static void main(String[] args) {
         Scanner e = new Scanner(System.in);
