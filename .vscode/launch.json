@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "creditoEspecial",
+            "request": "launch",
+            "mainClass": "creditoEspecial",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "calculoMorF",
+            "request": "launch",
+            "mainClass": "calculoMorF",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "lanchesCodigos",
+            "request": "launch",
+            "mainClass": "lanchesCodigos",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "parOuImpar",
+            "request": "launch",
+            "mainClass": "parOuImpar",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
             "name": "mediaPonderada",
             "request": "launch",
             "mainClass": "mediaPonderada",
