@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "praticaEmMethod",
+            "request": "launch",
+            "mainClass": "method.praticaEmMethod",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "metodosListas",
+            "request": "launch",
+            "mainClass": "method.metodosListas",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
             "name": "creditoEspecial",
             "request": "launch",
             "mainClass": "creditoEspecial",
