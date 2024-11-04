@@ -6,18 +6,19 @@ import java.util.ArrayList;
 
 class gerenciamentoRack
 {
+
+     static ArrayList <Rack> estoque = new ArrayList <Rack>(); 
     public static void main(String[] args) throws java.lang.Exception
     {
         Scanner ler = new Scanner(System.in);
-        ArrayList <Rack> estoque = new ArrayList <Rack> ();
+         
         estoque.add(new Rack("parede" , 5, 12));
         estoque.add(new Rack("parede", 7 , 3));
         estoque.add(new Rack("piso", 24 , 5));
         estoque.add(new Rack("piso" , 36 , 3));
+        
         // mostrar o arrayList  
-        for(int i = 0 ; i <= estoque.size(); i++){
-           estoque.get(i).exibirRack();
-        }
+       
         boolean executar = false;
         int opcao;
 
@@ -30,8 +31,8 @@ class gerenciamentoRack
                     adicionarRack(ler);
                     break;
                 case 2:
-                     System.out.println("oija");
-                    // exibirEstoque();
+                     
+                    exibirEstoque(ler);
                     break;
                 case 3:
                      System.out.println("oila");
@@ -39,6 +40,8 @@ class gerenciamentoRack
                     break;
                 case 4:
                     System.out.println("saindo do sistema...");
+                    executar = false;
+                    break;
                 default:
                     System.out.println("Opção invalida");
             }
@@ -76,5 +79,19 @@ class gerenciamentoRack
          System.out.println("Rack adiconado com sucesso");
     }
 
+    static void exibirEstoque(Scanner ler){
+        for(int i = 0 ; i < estoque.size(); i++){
+            estoque.get(i).exibirRack();
+         }
+       
+        // if(estoque.isEmpty()){
+        //     System.out.println("Racks Disponíveis:");
+           
+        
+        // }else{
+        //     System.out.println("estoque vazio");
+        // }
     
+    }
+
 }

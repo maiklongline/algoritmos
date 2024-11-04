@@ -15,7 +15,7 @@ class Rack {
     static void tamanhoParede(){
         int tamanho = 20;
         System.out.println("Tamanhos disponiveis para rack de parede:");
-        for(int i = 3; i <= tamanho; i +=2){
+        for(int i = 3; i < tamanho; i +=2){
             System.out.println("tamanho: " + i);
         }
     }
@@ -31,9 +31,8 @@ class Rack {
 
     void exibirRack(){
         if(tipo.equals("parede")){
-            System.out.println("Tipo: " +tipo+  "tamanho: " +tamanho+  "quantidade: "  +quantidade);
+            System.out.printf("Tipo de rack: %s%n Tamanho rack: %d%nQuantidades disponiveis de rack: %d%n ", tipo, tamanho, quantidade);
         }else if(tipo.equals("piso")){
-            System.out.println("Tipo:" +tipo+ "Tamanho: " +tamanho+ "quantidade: " +quantidade);
-        }
+            System.out.printf("Tipo de rack: %s%n Tamanho rack: %d%n Quantidades disponiveis de rack: %d%n ", tipo, tamanho, quantidade);        }
     }
 }
