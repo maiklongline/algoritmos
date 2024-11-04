@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "gerenciamentoRack",
+            "request": "launch",
+            "mainClass": "GerenciadorEstoque.gerenciamentoRack",
+            "projectName": "Atividade algorítimos_b4c5411f"
+        },
+        {
+            "type": "java",
+            "name": "praticaEmMethod",
+            "request": "launch",
+            "mainClass": "method.praticaEmMethod",
+            "projectName": "Atividade algorítimos_b4c5411f"
+        },
+        {
+            "type": "java",
+            "name": "whle",
+            "request": "launch",
+            "mainClass": "method.PraticaRepeticao.whle",
+            "projectName": "Atividade algorítimos_b4c5411f"
+        },
+        {
+            "type": "java",
+            "name": "refaz",
+            "request": "launch",
+            "mainClass": "method.refaz",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "exercicioReverso",
+            "request": "launch",
+            "mainClass": "extras.exercicioReverso",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "definicaoPremios",
+            "request": "launch",
+            "mainClass": "definicaoPremios",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "trianguloTipos",
+            "request": "launch",
+            "mainClass": "trianguloTipos",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "praticandoIfElse",
+            "request": "launch",
+            "mainClass": "method.praticandoIfElse",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
+            "name": "metodosBasicos",
+            "request": "launch",
+            "mainClass": "metodosBasicos",
+            "projectName": "Atividade algorítimos_b2755519"
+        },
+        {
+            "type": "java",
             "name": "praticaEmMethod",
             "request": "launch",
             "mainClass": "method.praticaEmMethod",

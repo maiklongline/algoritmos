@@ -17,7 +17,7 @@ public class trianguloTipos {
         if (x + y >z && x + z > y && z + y > x)  {
             System.out.println("Isto é um triângulo");
         } else if (x+y < z && x + z < y && z + y < x){
-            System.err.println("Não é um triângulo");
+            System.out.println("Não é um triângulo");
         }else if (x == y  && y == x && y == z && z == x ) {
             System.out.println("Isto é um triângulo: Equilátero");
         }else if ((x == y)|| (y == x)) {
