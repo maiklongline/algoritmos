@@ -12,6 +12,20 @@ class Rack {
         this. quantidade = quantidade;
     }
 
+
+    public String getTipo(){
+        return tipo;
+    }
+    public int getTamanho(){
+        return tamanho;
+    }
+    public int getQuantidade(){
+        return quantidade;
+    }
+
+    public int setQuantidade(int quantidade){
+        return this.quantidade = quantidade;
+    }
     static void tamanhoParede(){
         int tamanho = 20;
         System.out.println("Tamanhos disponiveis para rack de parede:");
